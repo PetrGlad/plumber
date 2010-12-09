@@ -7,5 +7,5 @@ package petrglad.utils.plumber;
  */
 public interface Source<T>
 {
-  public T get();
+	T get();
 }
