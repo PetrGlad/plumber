@@ -1,5 +1,6 @@
 Minimal event source-subscriber library for Java.
-See Example.java for usage example.
+I do think that it is designed better than listeners in vanilla java beans.
+See ./src/petrglad/utils/plumber/example/ for usage examples.
 
 
 
